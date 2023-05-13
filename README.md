@@ -11,7 +11,6 @@
 
 # 🚀Live Demo:
 
- - I deployed the project on Google Firebase.   
 -  simply click this link : https://duplicate-char-remover-8b327.web.app 👈 to see my React project.
 
 
